@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "196545989735",
+    "project_id": "socialloginapplication-29616"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196545989735:android:4148ab25036b93f5",
+        "android_client_info": {
+          "package_name": "com.example.prasanth.socialloginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196545989735-6i02hiq2altricpb08v8c77hakv3o360.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prasanth.socialloginapplication",
+            "certificate_hash": "750ef7065b510c71006534787f3b115bf5393a6b"
+          }
+        },
+        {
+          "client_id": "196545989735-q5a637m9nf9nd6m9n27minmkksppukmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpuyXzzlbrD68Qtkk0dsD8YAYkim251Qc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

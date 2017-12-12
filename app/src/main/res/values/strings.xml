@@ -1,0 +1,25 @@
+<resources>
+
+    <!--app name-->
+    <string name="app_name">SocialLoginApplication</string>
+
+    <!--facebook app id-->
+    <string name="facebook_app_id">868636493283467</string>
+
+    <!--Button names-->
+    <string name="google_button_name">Google</string>
+    <string name="facebook_button_name">Facebook</string>
+    <string name="twitter_button_name">Twitter</string>
+
+
+    <!--twitter keys-->
+    <string name="twitter_consumer_key">TkvV9knHcROXTAm8kRIjJ6qYa</string>
+    <string name="twitter_secret_key">M31sNOwp0KXcSASY3SYlZeyjRAa9XAFyLfssaX0QXChVVc4uUM</string>
+
+    <!--imageView image descriptions-->
+    <string name="profile_img_desc">profileImage for social logins</string>
+
+    <!--warning messages-->
+    <string name="email_warning_msg">Email is not available</string>
+
+</resources>
